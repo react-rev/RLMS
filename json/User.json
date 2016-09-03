@@ -1,0 +1,15 @@
+{
+  "username":"",
+  "id":"",
+  "is_admin":"",
+  "f_name":"",
+  "l_name":"",
+  "email":"",
+  "batch":{
+    "name":"",
+    "grades":[{
+      "score":"",
+      "exam":""
+    }]
+  }
+}

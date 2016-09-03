@@ -1,0 +1,44 @@
+#dividerComments{
+    margin-top:3.5em;
+}
+.commentButton{
+    margin-top:1em;
+}
+
+#registerDiv{
+    margin-top: 90px;
+}
+
+.btnCenter{
+    margin-left: 10%;
+}
+.comment{
+    border-bottom: solid 1px black ;
+    margin-bottom: 1em;
+    box-shadow: gray 1px 1px 10px 1px;
+    padding-top: 1em;
+}
+.commentBlock{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 20em;
+    background-color:white;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: inset 1px 1px 10px 1px gray;
+}
+
+
+
+.option label{
+    font-weight:100 !important;
+}
+
+.examHeader {
+    text-align: center;
+    font-family: "Arial Rounded MT Bold";
+}
+
+.option label:hover{
+    font-weight: bolder;
+}
